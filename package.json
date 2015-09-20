@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "build": "jade -O ./vars.json index.jade"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
+}
